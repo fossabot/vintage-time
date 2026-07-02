@@ -4,6 +4,7 @@
 [![codecov](https://codecov.io/gh/fernando7jr/vintage-time/graph/badge.svg?token=OPIEI5SPCJ)](https://codecov.io/gh/fernando7jr/vintage-time)
 ![node test and build workflow](https://github.com/fernando7jr/vintage-time/actions/workflows/node.js.yml/badge.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffernando7jr%2Fvintage-time.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffernando7jr%2Fvintage-time?ref=badge_shield)
 
 
 DateTime x DateOnly library with locale support. Compatible with sequelize, joi and plain javascript Dates
@@ -451,3 +452,7 @@ schema.validate({date: '2020/07/19'});
 schema.validate({date: '01:20:03.657Z'});
 schema.validate({date: '2020/07/19 at 3:00 PM'});
 ````
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffernando7jr%2Fvintage-time.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffernando7jr%2Fvintage-time?ref=badge_large)
